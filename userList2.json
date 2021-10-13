@@ -1,10 +1,15 @@
-{"user": {
+{
+"user": {
 "1420390800000": [
     {
       "userid": 1420390800000,
-      "name": johnnyr,
-      "icon": "https://s3.amazonaws.com/codecademy-content/courses/ltp4/forecast-api/sun.svg",
-      "header": "https://wi.wallpapertip.com/wsimgs/216-2165450_twitter-header-wallpaper.jpg",
+      "name": "johnnyr",
+      "icon": "https://s3.amazonaws.com/codecademy-content/courses/ltp4/forecast-
+
+api/sun.svg",
+      "header": "https://wi.wallpapertip.com/wsimgs/216-2165450_twitter-header-
+
+wallpaper.jpg",
       "location": "Las Vegas, NV",
       "bio": "Professional creator",
       "posts": 37
@@ -12,9 +17,13 @@
 "1420477200000": [
     {
       "userid": 1420477200000,
-      "name": sextyate,
-      "icon": "https://s3.amazonaws.com/codecademy-content/courses/ltp4/forecast-api/clouds.svg",
-      "header": "https://wi.wallpapertip.com/wsimgs/216-2165450_twitter-header-wallpaper.jpg",
+      "name": "sextyate",
+      "icon": "https://s3.amazonaws.com/codecademy-content/courses/ltp4/forecast-
+
+api/clouds.svg",
+      "header": "https://wi.wallpapertip.com/wsimgs/216-2165450_twitter-header-
+
+wallpaper.jpg",
       "location": "Paris, France",
       "bio": "ton amour",
       "posts": 37
@@ -22,9 +31,13 @@
 "1420563600000": [
     {
       "userid": 1420563600000,
-      "name": tristanb,
-      "icon": "https://s3.amazonaws.com/codecademy-content/courses/ltp4/forecast-api/rain.svg",
-      "header": "https://wi.wallpapertip.com/wsimgs/216-2165450_twitter-header-wallpaper.jpg",
+      "name": "tristanb",
+      "icon": "https://s3.amazonaws.com/codecademy-content/courses/ltp4/forecast-
+
+api/rain.svg",
+      "header": "https://wi.wallpapertip.com/wsimgs/216-2165450_twitter-header-
+
+wallpaper.jpg",
       "location": "Miami, FL",
       "bio": "me and my partner",
       "posts": 14
@@ -32,9 +45,13 @@
 "1420650000000": [
     {
       "userid": 1420650000000,
-      "name": alexclose,
-      "icon": "https://s3.amazonaws.com/codecademy-content/courses/ltp4/forecast-api/clouds.svg",
-      "header": "https://wi.wallpapertip.com/wsimgs/216-2165450_twitter-header-wallpaper.jpg",
+      "name": "alexclose",
+      "icon": "https://s3.amazonaws.com/codecademy-content/courses/ltp4/forecast-
+
+api/clouds.svg",
+      "header": "https://wi.wallpapertip.com/wsimgs/216-2165450_twitter-header-
+
+wallpaper.jpg",
       "location": "FTL, FL",
       "bio": "",
       "posts": 28
@@ -42,9 +59,13 @@
 "1420736400000": [
     {
       "userid": 1420736400000,
-      "name": sebbysx,
-      "icon": "https://s3.amazonaws.com/codecademy-content/courses/ltp4/forecast-api/sun.svg",
-      "header": "https://wi.wallpapertip.com/wsimgs/216-2165450_twitter-header-wallpaper.jpg",
+      "name": "sebbysx",
+      "icon": "https://s3.amazonaws.com/codecademy-content/courses/ltp4/forecast-
+
+api/sun.svg",
+      "header": "https://wi.wallpapertip.com/wsimgs/216-2165450_twitter-header-
+
+wallpaper.jpg",
       "location": "NYC",
       "bio": "here for the fun of it all",
       "posts": 32
